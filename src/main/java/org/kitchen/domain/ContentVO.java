@@ -5,7 +5,7 @@ import lombok.Data;
 @Data
 public class ContentVO {
 	private int stepNo;
-	private long rno;
+	private Long rno;
 	private String photoUrl;
 	private String content;
 	

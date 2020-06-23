@@ -1,6 +1,6 @@
 package org.kitchen.mapper;
 
 
-public class RecipeMapper {
+public interface RecipeMapper {
 
 }

@@ -8,6 +8,7 @@ import lombok.Data;
 public class RecipeVO {
 	private long rno;
 	private String title;
+	private String thumbnail;
 	private Date regdate;
 	private Date updateDate;
 	private int cookingTime;
